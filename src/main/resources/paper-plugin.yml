@@ -1,0 +1,4 @@
+name: MCServerRegen
+version: '${project.version}'
+main: org.theturnip.mcserverregen.MCServerRegen
+api-version: '1.21'
